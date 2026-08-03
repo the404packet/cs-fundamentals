@@ -1,5 +1,3 @@
-# Semaphores, Mutexes and Monitors
-
 > [!NOTE]
 > Synchronization algorithms such as Peterson's Algorithm solve the critical section problem theoretically, but they are not practical for modern operating systems. Modern systems instead use synchronization primitives such as semaphores, mutexes and monitors, which are built using atomic hardware instructions.
 
